@@ -9,7 +9,7 @@ It also highlights my best projects with live previews and GitHub links for easy
 
 
 ## 🚀 Live Website  
-👉 [View Portfolio]: (https://niranjanj45.github.io/My-Portfolio/)  
+👉 [View Portfolio]: https://niranjanj45.github.io/My-Portfolio/  
 
 ## ✨ Features  
 - Responsive and modern design  
